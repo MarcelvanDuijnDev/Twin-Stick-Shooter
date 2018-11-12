@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 4184f8d61e670f041aaef25e7cdbd199
+timeCreated: 1495629707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Core_Body
+    100002: Head
+    100004: Left_Back
+    100006: Left_Back 1
+    100008: Left_Back_Leg
+    100010: Left_Back_Leg_1
+    100012: Left_Back_Leg_2
+    100014: Left_Back_Leg_3
+    100016: Left_Front
+    100018: Left_Front 1
+    100020: Left_Front_Leg
+    100022: Left_Front_Leg_1
+    100024: Left_Front_Leg_2
+    100026: Left_Front_Leg_3
+    100028: Left_Middle
+    100030: Left_Middle 1
+    100032: Left_Middle_Leg
+    100034: Left_Middle_Leg_1
+    100036: Left_Middle_Leg_2
+    100038: Left_Middle_Leg_3
+    100040: Mutant1
+    100042: Right_Back
+    100044: Right_Back 1
+    100046: Right_Back_Leg
+    100048: Right_Back_Leg_1
+    100050: Right_Back_Leg_2
+    100052: Right_Back_Leg_3
+    100054: Right_Front
+    100056: Right_Front 1
+    100058: Right_Front_Leg
+    100060: Right_Front_Leg_1
+    100062: Right_Front_Leg_2
+    100064: Right_Front_Leg_3
+    100066: Right_Middle
+    100068: Right_Middle 1
+    100070: Right_Middle_Leg
+    100072: Right_Middle_Leg_1
+    100074: Right_Middle_Leg_2
+    100076: Right_Middle_Leg_3
+    100078: Root
+    100080: Spider
+    100082: Tail
+    100084: Tail1
+    100086: Tail2
+    100088: Tail3
+    100090: Tail4
+    100092: Tail5
+    100094: Tail6
+    100096: Tail7
+    100098: Tail8
+    100100: //RootNode
+    100102: transform1
+    400000: Core_Body
+    400002: Head
+    400004: Left_Back
+    400006: Left_Back 1
+    400008: Left_Back_Leg
+    400010: Left_Back_Leg_1
+    400012: Left_Back_Leg_2
+    400014: Left_Back_Leg_3
+    400016: Left_Front
+    400018: Left_Front 1
+    400020: Left_Front_Leg
+    400022: Left_Front_Leg_1
+    400024: Left_Front_Leg_2
+    400026: Left_Front_Leg_3
+    400028: Left_Middle
+    400030: Left_Middle 1
+    400032: Left_Middle_Leg
+    400034: Left_Middle_Leg_1
+    400036: Left_Middle_Leg_2
+    400038: Left_Middle_Leg_3
+    400040: Mutant1
+    400042: Right_Back
+    400044: Right_Back 1
+    400046: Right_Back_Leg
+    400048: Right_Back_Leg_1
+    400050: Right_Back_Leg_2
+    400052: Right_Back_Leg_3
+    400054: Right_Front
+    400056: Right_Front 1
+    400058: Right_Front_Leg
+    400060: Right_Front_Leg_1
+    400062: Right_Front_Leg_2
+    400064: Right_Front_Leg_3
+    400066: Right_Middle
+    400068: Right_Middle 1
+    400070: Right_Middle_Leg
+    400072: Right_Middle_Leg_1
+    400074: Right_Middle_Leg_2
+    400076: Right_Middle_Leg_3
+    400078: Root
+    400080: Spider
+    400082: Tail
+    400084: Tail1
+    400086: Tail2
+    400088: Tail3
+    400090: Tail4
+    400092: Tail5
+    400094: Tail6
+    400096: Tail7
+    400098: Tail8
+    400100: //RootNode
+    400102: transform1
+    4300000: Mutant1
+    7400000: Take 001
+    7400002: Idle
+    7400004: Walk
+    7400006: Attack
+    7400008: Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Mutant1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mutant1
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Left_Back
+        weight: 1
+      - path: Spider/Left_Back/Left_Back 1
+        weight: 1
+      - path: Spider/Left_Front
+        weight: 1
+      - path: Spider/Left_Front/Left_Front 1
+        weight: 1
+      - path: Spider/Left_Middle
+        weight: 1
+      - path: Spider/Left_Middle/Left_Middle 1
+        weight: 1
+      - path: Spider/Right_Back
+        weight: 1
+      - path: Spider/Right_Back/Right_Back 1
+        weight: 1
+      - path: Spider/Right_Front
+        weight: 1
+      - path: Spider/Right_Front/Right_Front 1
+        weight: 1
+      - path: Spider/Right_Middle
+        weight: 1
+      - path: Spider/Right_Middle/Right_Middle 1
+        weight: 1
+      - path: Spider/transform1
+        weight: 1
+      - path: Spider/transform1/Root
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Head
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2/Left_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2/Left_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2/Left_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2/Right_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2/Right_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2/Right_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mutant1
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Left_Back
+        weight: 1
+      - path: Spider/Left_Back/Left_Back 1
+        weight: 1
+      - path: Spider/Left_Front
+        weight: 1
+      - path: Spider/Left_Front/Left_Front 1
+        weight: 1
+      - path: Spider/Left_Middle
+        weight: 1
+      - path: Spider/Left_Middle/Left_Middle 1
+        weight: 1
+      - path: Spider/Right_Back
+        weight: 1
+      - path: Spider/Right_Back/Right_Back 1
+        weight: 1
+      - path: Spider/Right_Front
+        weight: 1
+      - path: Spider/Right_Front/Right_Front 1
+        weight: 1
+      - path: Spider/Right_Middle
+        weight: 1
+      - path: Spider/Right_Middle/Right_Middle 1
+        weight: 1
+      - path: Spider/transform1
+        weight: 1
+      - path: Spider/transform1/Root
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Head
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2/Left_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2/Left_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2/Left_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2/Right_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2/Right_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2/Right_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 56
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mutant1
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Left_Back
+        weight: 1
+      - path: Spider/Left_Back/Left_Back 1
+        weight: 1
+      - path: Spider/Left_Front
+        weight: 1
+      - path: Spider/Left_Front/Left_Front 1
+        weight: 1
+      - path: Spider/Left_Middle
+        weight: 1
+      - path: Spider/Left_Middle/Left_Middle 1
+        weight: 1
+      - path: Spider/Right_Back
+        weight: 1
+      - path: Spider/Right_Back/Right_Back 1
+        weight: 1
+      - path: Spider/Right_Front
+        weight: 1
+      - path: Spider/Right_Front/Right_Front 1
+        weight: 1
+      - path: Spider/Right_Middle
+        weight: 1
+      - path: Spider/Right_Middle/Right_Middle 1
+        weight: 1
+      - path: Spider/transform1
+        weight: 1
+      - path: Spider/transform1/Root
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Head
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2/Left_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2/Left_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2/Left_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2/Right_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2/Right_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2/Right_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 57
+      lastFrame: 79
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mutant1
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Left_Back
+        weight: 1
+      - path: Spider/Left_Back/Left_Back 1
+        weight: 1
+      - path: Spider/Left_Front
+        weight: 1
+      - path: Spider/Left_Front/Left_Front 1
+        weight: 1
+      - path: Spider/Left_Middle
+        weight: 1
+      - path: Spider/Left_Middle/Left_Middle 1
+        weight: 1
+      - path: Spider/Right_Back
+        weight: 1
+      - path: Spider/Right_Back/Right_Back 1
+        weight: 1
+      - path: Spider/Right_Front
+        weight: 1
+      - path: Spider/Right_Front/Right_Front 1
+        weight: 1
+      - path: Spider/Right_Middle
+        weight: 1
+      - path: Spider/Right_Middle/Right_Middle 1
+        weight: 1
+      - path: Spider/transform1
+        weight: 1
+      - path: Spider/transform1/Root
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Head
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2/Left_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2/Left_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2/Left_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2/Right_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2/Right_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2/Right_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 82
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Mutant1
+        weight: 1
+      - path: Spider
+        weight: 1
+      - path: Spider/Left_Back
+        weight: 1
+      - path: Spider/Left_Back/Left_Back 1
+        weight: 1
+      - path: Spider/Left_Front
+        weight: 1
+      - path: Spider/Left_Front/Left_Front 1
+        weight: 1
+      - path: Spider/Left_Middle
+        weight: 1
+      - path: Spider/Left_Middle/Left_Middle 1
+        weight: 1
+      - path: Spider/Right_Back
+        weight: 1
+      - path: Spider/Right_Back/Right_Back 1
+        weight: 1
+      - path: Spider/Right_Front
+        weight: 1
+      - path: Spider/Right_Front/Right_Front 1
+        weight: 1
+      - path: Spider/Right_Middle
+        weight: 1
+      - path: Spider/Right_Middle/Right_Middle 1
+        weight: 1
+      - path: Spider/transform1
+        weight: 1
+      - path: Spider/transform1/Root
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Head
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Back_Leg/Left_Back_Leg_1/Left_Back_Leg_2/Left_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Front_Leg/Left_Front_Leg_1/Left_Front_Leg_2/Left_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Left_Middle_Leg/Left_Middle_Leg_1/Left_Middle_Leg_2/Left_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Back_Leg/Right_Back_Leg_1/Right_Back_Leg_2/Right_Back_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Front_Leg/Right_Front_Leg_1/Right_Front_Leg_2/Right_Front_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Right_Middle_Leg/Right_Middle_Leg_1/Right_Middle_Leg_2/Right_Middle_Leg_3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7
+        weight: 1
+      - path: Spider/transform1/Root/Core_Body/Tail/Tail1/Tail2/Tail3/Tail4/Tail5/Tail6/Tail7/Tail8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
